@@ -1,0 +1,30 @@
+This is a Node.js/Next.js project.
+
+To install needed requirements, run:
+
+    npm install
+
+This will install the following key packages (defined in package.json):
+
+Core:
+- next
+- react
+- react-dom
+
+3D & Animation:
+- three
+- @react-three/fiber
+- @react-three/drei
+- framer-motion
+- framer-motion-3d
+
+AI:
+- openai
+
+Styling:
+- tailwindcss
+- @tailwindcss/postcss
+
+Dev Tools:
+- typescript
+- eslint
